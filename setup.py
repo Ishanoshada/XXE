@@ -17,7 +17,7 @@ requirements = [
 
 setup(
     name="xxe",
-    version="0.1.5",
+    version="0.1.6",
     author="Ishan Oshada",
     author_email="ishan.kodithuwakku.offical@gmail.com",
     description="A comprehensive XML External Entity (XXE) security testing toolkit",
