@@ -207,3 +207,6 @@ This tool is for educational and authorized testing purposes only. Users are res
 - Security researchers and ethical hackers who contributed to XXE research
 - The Python security community
 - All contributors to this project
+- 
+
+**Repository Views** ![Views](https://profile-counter.glitch.me/xxe/count.svg)
